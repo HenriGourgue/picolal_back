@@ -7,3 +7,4 @@ INSERT INTO rule VALUES (
         NULL,
         NULL
     );
+    
